@@ -5,8 +5,8 @@ require 'formula'
 
 class Readable < Formula
   homepage 'http://readable.sourceforge.net/'
-  url 'https://downloads.sourceforge.net/project/readable/readable-0.6.0.tar.gz'
-  sha1 'a22610ee1401371e2754da809589fbd799fc297e'
+  url 'https://downloads.sourceforge.net/project/readable/readable-0.9.2.tar.gz'
+  sha1 '273a7589f69fc82990dc4591eff1d4ab049edff1'
 
   depends_on 'guile'
 
